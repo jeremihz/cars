@@ -23,7 +23,7 @@ include('session_client.php'); ?>
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   PATNA CAR RENTAL </a>
+                   NEBZTAR SMART CAR RENTAL </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -204,7 +204,7 @@ if (mysqli_num_rows($result) > 0) {
             <hr>
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>© 2020 Nairobi Car Rental</h5>
+                    <h5>© 2020 Nebztar Smart Car Rental</h5>
                 </div>
             </div>
         </div>

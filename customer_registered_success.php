@@ -1,7 +1,7 @@
 <html>
 
   <head>
-    <title> customer Signup | Nairobi Car Rental </title>
+    <title> customer Signup | Nebztar Smart Car Rental </title>
   </head>
   <link rel="shortcut icon" type="image/png" href="assets/img/P.png.png">
   <link rel="stylesheet" type = "text/css" href ="assets/css/manager_registered_success.css">
@@ -44,7 +44,7 @@
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   NAIROBI CAR RENTAL </a>
+                   NEBZTAR SMART CAR RENTAL </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -169,7 +169,7 @@ $conn->close();
         <hr>
         <div class="row">
             <div class="col-sm-6">
-                <h5>© 2020 Nairobi Car Rental</h5>
+                <h5>© 2020 Nebztar Smart Car Rental</h5>
             </div>
         </div>
     </div>

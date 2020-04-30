@@ -25,7 +25,7 @@ $conn = Connect();
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   NAIROBI CAR RENTAL </a>
+                   NEBZTAR SMART CAR RENTAL </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -177,7 +177,7 @@ $conn = Connect();
             <hr>
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>© 2020 Nairobi Car Rental</h5>
+                    <h5>© 2020 Nebztar Smart Car Rental</h5>
                 </div>
             </div>
         </div>

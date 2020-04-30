@@ -10,7 +10,7 @@ header("location: index.php"); //Redirecting
     <html>
 
     <head>
-        <title> Customer Login | Car Rental </title>
+        <title> Customer Login | Nebztar Smart  Rental </title>
     </head>
     <link rel="shortcut icon" type="image/png" href="assets/img/P.png.png">
     <link rel="stylesheet" type="text/css" href="assets/css/customerlogin.css">
@@ -30,7 +30,7 @@ header("location: index.php"); //Redirecting
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   NAIROBI CAR RENTAL </a>
+                   NEBZTAR SMART CAR RENTAL </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -114,7 +114,7 @@ header("location: index.php"); //Redirecting
 
         <div class="container">
             <div class="jumbotron">
-                <h1>Welcome to Nairobi Car Rental </span>
+                <h1>Welcome to Nebztar Smart Car Rental </span>
                 </h1>
                 <br>
                 <p>Kindly LOGIN to continue.</p>
@@ -176,7 +176,7 @@ header("location: index.php"); //Redirecting
             <hr>
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>© 2020 Nairobi Car Rental</h5>
+                    <h5>© 2020 Nebztar Smart Car Rental</h5>
                 </div>
             </div>
         </div>

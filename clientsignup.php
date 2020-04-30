@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title> Client Signup | Nairobi Car Rental  </title>
+    <title> Client Signup | Nebztar Smart  Car Rental  </title>
 </head>
 <link rel="shortcut icon" type="image/png" href="assets/img/P.png.png">
  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
@@ -20,7 +20,7 @@
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   NAIROBI CAR RENTAL </a>
+                   NEBZTAR SMART CAR RENTAL </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <?php
@@ -100,7 +100,7 @@
     </nav>
     <div class="container">
         <div class="jumbotron">
-            <h1>Welcome to Nairobi Car Rental</h1>
+            <h1>Welcome to Nebztar Smart Car Rental</h1>
             <br>
             <p>Get started by creating your account</p>
         </div>
@@ -217,7 +217,7 @@
         <hr>
         <div class="row">
             <div class="col-sm-6">
-                <h5>© 2020 Nairobi Car Rental</h5>
+                <h5>© 2020 Nebztar Smart Car Rental</h5>
             </div>
         </div>
     </div>

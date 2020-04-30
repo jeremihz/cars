@@ -26,7 +26,7 @@ $conn = Connect();
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   NAIROBI CAR RENTAL </a>
+                   NEBZTAR SMART CAR RENTAL </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -180,7 +180,7 @@ else {
     </div>
     <br>
 
-    <h2 class="text-center"> Thank you for visiting Nairobi Car Rental! We wish you have a safe ride. </h2>
+    <h2 class="text-center"> Thank you for visiting Nebztar Smart Car Rental! We wish you have a safe ride. </h2>
 
     <h3 class="text-center"> <strong>Your Order Number:</strong> <span style="color: blue;"><?php echo "$id"; ?></span> </h3>
 
@@ -245,7 +245,7 @@ else {
             <hr>
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>© 2020 Nairobi Car Rental</h5>
+                    <h5>© 2020 Nebztar Smart Car Rental</h5>
                 </div>
             </div>
         </div>

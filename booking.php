@@ -32,7 +32,7 @@ if(!isset($_SESSION['login_customer'])){
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   NAIROBI CAR RENTAL </a>
+                   NEBZTAR SMART CAR RENTAL </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -247,7 +247,7 @@ if(!isset($_SESSION['login_customer'])){
         
       </div>
       <div class="col-md-12" style="float: none; margin: 0 auto; text-align: center;">
-            <h6><strong>Kindly Note:</strong> You will be charged <span class="text-danger">ksh200/-</span> for each day after the due date.</h6>
+            <h6><strong>Kindly Note:</strong> You will be charged <span class="text-danger">ksh 200/-</span> for each day after the due date.</h6>
         </div>
     </div>
 
@@ -257,7 +257,7 @@ if(!isset($_SESSION['login_customer'])){
             <hr>
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>© 2020 Nairobi Car Rental</h5>
+                    <h5>© 2020 Nebztar Smart Car Rental</h5>
                 </div>
             </div>
         </div>

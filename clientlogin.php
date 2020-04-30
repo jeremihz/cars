@@ -10,7 +10,7 @@ if(isset($_SESSION['login_client'])){
     <html>
 
     <head>
-        <title> Client Login | Car Rental </title>
+        <title> Client Login | Nebztar Smart Car Rental </title>
         <link rel="shortcut icon" type="image/png" href="assets/img/P.png.png">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
@@ -29,7 +29,7 @@ if(isset($_SESSION['login_client'])){
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   NAIROBI CAR RENTAL </a>
+                   NEBZTAR SMART CAR RENTAL </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -112,7 +112,7 @@ if(isset($_SESSION['login_client'])){
     </nav>
         <div class="container">
             <div class="jumbotron">
-                <h1>Welcome to Nairobi Car Rental </span>
+                <h1>Welcome to Nebztar Smart  Car Rental </span>
                 </h1>
                 <br>
                 <p>Kindly LOGIN to continue.</p>
@@ -174,7 +174,7 @@ if(isset($_SESSION['login_client'])){
             <hr>
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>© 2020 Nairobi Car Rental</h5>
+                    <h5>© 2020 Nebztar Smart Car Renta</h5>
                 </div>
             </div>
         </div>
